@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/grading
+https://www.hackerrank.com/challenges/staircase/problem
 pub fn staircase(n: i32) {
 
 for i in 1..=n {
