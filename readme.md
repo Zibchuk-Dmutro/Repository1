@@ -8,7 +8,8 @@
 
 Практичні роботи виконуються індивідуально.
 Кожне завдання повинно бути реалізоване у вигляді окремого Rust-модуля з тестами.
-Результат роботи повинен бути підтверджений локальним проходженням тестів та проходженням тестів на платформі **HackerRank**.
+Результат роботи повинен бути підтверджений локальним проходженням тестів та проходженням тестів на платформі *
+*HackerRank**.
 Код повинен бути чистим, без попереджень компілятора (warnings), без коментарів ChatGPT.
 
 ---
@@ -62,10 +63,12 @@ src/
 2. Зробити скріншот з локального компʼютера, де видно:
     * що всі тести пройшли.
     * відсутні warnings - Роботи з попередженнями компілятора (warning) не зараховуються.
-    * [приклад](https://github.com/djnzx/rust-practice2/blob/master/src/hackerrank/results/0/rust2-example0-console-no-warning.png) коректного результату. 
+    * [приклад](https://github.com/djnzx/rust-practice2/blob/master/src/hackerrank/results/0/rust2-example0-console-no-warning.png)
+      коректного результату.
 
 3. Якщо є warnings — робота не зараховується.
-   * [Приклад](https://github.com/djnzx/rust-practice2/blob/master/src/hackerrank/results/0/rust2-example0-console-warning.png) некоректного результату.
+    * [Приклад](https://github.com/djnzx/rust-practice2/blob/master/src/hackerrank/results/0/rust2-example0-console-warning.png)
+      некоректного результату.
 
 ---
 
@@ -73,7 +76,8 @@ src/
 
 1. Завантажити рішення на платформу **HackerRank**.
 2. Переконатися, що всі тести на сайті пройдені.
-3. Зробити скріншот з результатом проходження. [Приклад](https://github.com/djnzx/rust-practice2/blob/master/src/hackerrank/results/0/rust2-example0-site-result.png).
+3. Зробити скріншот з результатом
+   проходження. [Приклад](https://github.com/djnzx/rust-practice2/blob/master/src/hackerrank/results/0/rust2-example0-site-result.png).
 
 ---
 

@@ -4,6 +4,12 @@ mod hackerrank {
      pub mod task04;
      pub mod task05;
      pub mod task06;
+     pub mod task07;
+     pub mod task08;
+     pub mod task09;
+     pub mod task10;
+     pub mod task11;
+     pub mod task12;
  }
  fn main() {
  }
